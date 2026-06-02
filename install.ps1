@@ -18,4 +18,4 @@ Copy-Item -Force (Join-Path $repoRoot "agents\gds.agent.md") $agentsDest
 
 Write-Host ""
 Write-Host "Done. Launch a GDS-flavoured session with:" -ForegroundColor Green
-Write-Host '  copilot --agent "GOV.UK Design System Expert"' -ForegroundColor Yellow
+Write-Host '  copilot --agent gds' -ForegroundColor Yellow

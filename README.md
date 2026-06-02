@@ -57,7 +57,7 @@ Both scripts copy the skills to `~/.copilot/skills/` and the agent file to `~/.c
 ### As an agent (recommended for full GDS projects)
 
 ```bash
-copilot --agent "GOV.UK Design System Expert"
+copilot --agent gds
 ```
 
 Standing GDS context — Service Standard, WCAG 2.2 AA, plain English, progressive enhancement — applies to every turn in the session.

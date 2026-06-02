@@ -19,4 +19,4 @@ cp "$REPO_ROOT"/agents/gds.agent.md "$AGENTS_DEST"/
 
 echo
 echo "Done. Launch a GDS-flavoured session with:"
-echo '  copilot --agent "GOV.UK Design System Expert"'
+echo '  copilot --agent gds'
