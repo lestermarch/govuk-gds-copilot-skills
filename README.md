@@ -4,6 +4,10 @@ A set of [GitHub Copilot CLI](https://github.com/github/copilot-cli) skills and 
 
 > **Not an official GDS or Microsoft product.** This is a community resource that points Copilot at the canonical GOV.UK guidance so the model stops paraphrasing the Design System from memory.
 
+## Companion project
+
+For the **backend / infra / DevOps / SRE** side of building UK public-sector services on Azure + GitHub (hosting topology, IaC, observability, incident management, Key Vault, OIDC federation, Secure by Design alignment), see the sibling project: [**govuk-gds-way-copilot-skills**](https://github.com/lestermarch/govuk-gds-way-copilot-skills). The two install side-by-side and the agents are deliberately separate so you can pick the right persona for the work.
+
 ## What's in here
 
 ### Agent
